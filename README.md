@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Bassel 👋
 
-<!--
-**BasselAli1/BasselAli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack AI Engineer with a Computer Science background, focused on building end-to-end LLM applications, RAG systems, and AI chat agents integrated into applications and business systems.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- LangChain
+- PostgreSQL
+- Docker
+- Machine Learning & LLMs
+- React
+
+## Featured Projects
+
+### 📄 Document Q&A App
+
+RAG application that lets users upload documents and chat with them using an LLM.
+
+- FastAPI
+- LangChain
+- Chroma
+- PostgreSQL
+- Docker
+
+
+## Connect with me
+
+- www.linkedin.com/in/bassel-ali1
