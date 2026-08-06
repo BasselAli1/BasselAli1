@@ -23,4 +23,4 @@ A deployed RAG application that lets users upload documents and chat with them a
 A deployed RAG application that lets users ask questions about a database, and the system answer with a natural language answer and the sql query.
 
 ## Connect with me
-- www.linkedin.com/in/bassel-ali1
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-ali1)
