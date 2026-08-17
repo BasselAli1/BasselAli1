@@ -12,8 +12,13 @@ I’m a Full-Stack AI Engineer with a Computer Science background, focused on bu
 - Machine Learning & LLMs
 - PGvector/chroma
 - React
+- GitHub Actions / CI-CD
 
 ## Featured Projects
+
+### 🎯 Lead Qualifier [🔗 Live API Docs](https://lead-qualifier-39d6b21e.fastapicloud.dev/docs) · [💻 Code](https://github.com/BasselAli1/lead-qualifier)
+
+A hybrid rules + RAG-grounded LLM service that qualifies inbound HubSpot leads in real time. A webhook triggers a deterministic rules engine and an LLM call grounded via pgvector retrieval in the company's own ICP and sales playbook, then writes the score back to HubSpot and alerts Slack for hot leads. Ships with a full unit/adapter/eval test suite and a gated CI/CD pipeline to production.
 
 ### 📄 Document Q&A App [🔗 Live Demo](https://documentqa-5c1be7ab.fastapicloud.dev/) · [💻 Code](https://github.com/BasselAli1/DocumentQA)
 
