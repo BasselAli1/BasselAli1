@@ -24,7 +24,7 @@ A hybrid rules + RAG-grounded LLM service that qualifies inbound HubSpot leads i
 
 A deployed RAG application that lets users upload documents and chat with them about those documents.
 
-### 📄 Chat with database [🔗 Live Demo](https://chatting-with-db.vercel.app/) · [💻 Code](https://github.com/BasselAli1/chat-with-database)
+### 📄 Chat With Your Database [🔗 Live Demo](https://chatting-with-db.vercel.app/) · [💻 Code](https://github.com/BasselAli1/chat-with-database)
 A deployed RAG application that lets users ask questions about a database in plain English, the system returns both the SQL query and a natural-language answer.
 
 ## Connect with me
