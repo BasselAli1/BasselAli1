@@ -22,7 +22,7 @@ A hybrid rules + RAG-grounded LLM service that qualifies inbound HubSpot leads i
 
 ### 📈 Stock Move Explainer [💻 Code](https://github.com/BasselAli1/stock-move-explainer)
 
-Watches a stock watchlist daily; on a qualifying price drop, retrieves the company's own SEC risk-factor disclosures via pgvector similarity search and asks an LLM to explain the move using only that retrieved text, citing the exact filing passage or honestly saying no connection was found rather than guessing. Built end-to-end in an AI pair-programming session with Claude Code — every architecture and design decision was directed and reviewed by me, with real bugs (in filing-text extraction, a pgvector type mismatch, CI config) found and fixed via live testing against actual SEC filings and APIs, not just code review. Ships with 28 unit tests, an LLM grounding eval suite, and gated CI (ruff + pytest).
+Watches a stock watchlist daily and explains qualifying price drops using only the company's own SEC risk-factor disclosures — retrieved via pgvector similarity search, with an LLM citing the exact filing passage or honestly saying no connection was found. Built end-to-end with Claude Code, including real bugs found and fixed via live testing. Ships with 28 unit tests, an LLM grounding eval suite, and gated CI.
 
 ### 📄 Document Q&A App [🔗 Live Demo](https://documentqa-5c1be7ab.fastapicloud.dev/) · [💻 Code](https://github.com/BasselAli1/DocumentQA)
 
