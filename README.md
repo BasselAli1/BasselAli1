@@ -31,5 +31,5 @@ A deployed RAG application that lets users upload documents and chat with them a
 ### 📄 Chat With Your Database [🔗 Live Demo](https://chatting-with-db.vercel.app/) · [💻 Code](https://github.com/BasselAli1/chat-with-database)
 A deployed RAG application that lets users ask questions about a database in plain English, returning both the SQL query and a natural-language answer, with every query run inside a database-enforced read-only transaction.
 
-## Connect with me
+## Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-ali1)
