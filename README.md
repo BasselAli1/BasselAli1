@@ -26,10 +26,10 @@ Watches a stock watchlist daily and explains qualifying price drops using only t
 
 ### 📄 Document Q&A App [🔗 Live Demo](https://documentqa-5c1be7ab.fastapicloud.dev/) · [💻 Code](https://github.com/BasselAli1/DocumentQA)
 
-A deployed RAG application that lets users upload documents and chat with them about those documents.
+A deployed RAG application that lets users upload documents and chat with them about those documents, with retrieved context explicitly guarded against prompt injection.
 
 ### 📄 Chat With Your Database [🔗 Live Demo](https://chatting-with-db.vercel.app/) · [💻 Code](https://github.com/BasselAli1/chat-with-database)
-A deployed RAG application that lets users ask questions about a database in plain English, the system returns both the SQL query and a natural-language answer.
+A deployed RAG application that lets users ask questions about a database in plain English, returning both the SQL query and a natural-language answer, with every query run inside a database-enforced read-only transaction.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-ali1)
