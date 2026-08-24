@@ -20,6 +20,10 @@ I’m a Full-Stack AI Engineer with a Computer Science background, focused on bu
 
 A hybrid rules + RAG-grounded LLM service that qualifies inbound HubSpot leads in real time. A webhook triggers a deterministic rules engine and an LLM call grounded via pgvector retrieval in the company's own ICP and sales playbook, then writes the score back to HubSpot and alerts Slack for hot leads. Ships with a full unit/adapter/eval test suite and a gated CI/CD pipeline to production.
 
+### 📈 Stock Move Explainer [💻 Code](https://github.com/BasselAli1/stock-move-explainer)
+
+Watches a stock watchlist daily; on a qualifying price drop, retrieves the company's own SEC risk-factor disclosures via pgvector similarity search and asks an LLM to explain the move using only that retrieved text, citing the exact filing passage or honestly saying no connection was found rather than guessing. Built end-to-end in an AI pair-programming session with Claude Code — every architecture and design decision was directed and reviewed by me, with real bugs (in filing-text extraction, a pgvector type mismatch, CI config) found and fixed via live testing against actual SEC filings and APIs, not just code review. Ships with 28 unit tests, an LLM grounding eval suite, and gated CI (ruff + pytest).
+
 ### 📄 Document Q&A App [🔗 Live Demo](https://documentqa-5c1be7ab.fastapicloud.dev/) · [💻 Code](https://github.com/BasselAli1/DocumentQA)
 
 A deployed RAG application that lets users upload documents and chat with them about those documents.
