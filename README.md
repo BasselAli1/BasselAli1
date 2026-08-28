@@ -1,6 +1,6 @@
 ## Hi, I'm Bassel 👋
 
-I'm a Full-Stack AI Engineer with a Computer Science background, focused on building end-to-end LLM applications and RAG systems wired into the databases and business systems companies already run on.
+I'm a Full-Stack AI Engineer with a Computer Science background, focused on building end-to-end LLM applications and RAG systems wired into the databases and business systems companies already run on.  
 📂 **[Portfolio and case studies →](https://basselali1.github.io)**
 
 ## What I work with
