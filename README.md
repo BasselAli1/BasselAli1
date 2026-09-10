@@ -23,7 +23,7 @@ A hybrid rules + RAG-grounded LLM service that qualifies inbound HubSpot leads i
 
 ### 📈 Stock Move Explainer [💻 Code](https://github.com/BasselAli1/stock-move-explainer) · [📝 Case Study](https://basselali1.github.io/stock-move-explainer.html)
 
-Watches a stock watchlist daily and explains qualifying price drops using only the company's own SEC risk-factor disclosures, retrieved via pgvector similarity search, with an LLM citing the exact filing passage or honestly saying no connection was found. Built end-to-end with Claude Code, including real bugs found and fixed via live testing. Ships with 28 unit tests, an LLM grounding eval suite, and gated CI.
+Watches a stock watchlist daily and explains qualifying price drops using only the company's own SEC risk-factor disclosures, retrieved via pgvector similarity search, with an LLM citing the exact filing passage or honestly saying no connection was found. Built end-to-end. Ships with 28 unit tests, an LLM grounding eval suite, and gated CI.
 
 ### 📄 Chat With Your Database [🔗 Live Demo](https://chatting-with-db.vercel.app/) · [💻 Code](https://github.com/BasselAli1/chat-with-database) · [📝 Case Study](https://basselali1.github.io/chat-with-database.html)
 
