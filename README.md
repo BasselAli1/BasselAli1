@@ -34,7 +34,7 @@ A deployed RAG application that lets users ask questions about a database in pla
 
 A deployed RAG application that lets users upload documents and chat with them about those documents, with retrieved context explicitly guarded against prompt injection.
 
-### 📄 Invoice Autopilot Workflow [💻 Code]([https://github.com/BasselAli1/DocumentQA](https://github.com/BasselAli1/Invoice-Autopilot-workflow))
+### 📄 Invoice Autopilot Workflow [💻 Code]([https://github.com/BasselAli1/DocumentQA](https://github.com/BasselAli1/Invoice-Autopilot-workflow)
 
 n8n automation that reads invoices for you, so nobody has to type the data in by hand. It's connected to Mail, slack, OpenAi model, and data source.
 
